@@ -1,0 +1,176 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title id="title" >Niemcy - prezentacja kraju</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	
+	h2 {font-family: Courier,Helvetica, Arial;
+	
+	}
+	
+	h1 {font-family: Courier;Helvetica,Arial;
+	}
+	
+	p {font-family: Arial, Sans-Serif;
+	}
+		
+		
+	a {color: black;
+	text-decoration: none;
+	}
+	
+	
+	a:hover {color:#D785AB;
+	text-decoration: underline;
+	}
+	
+		a:visited {color:#A63C64;
+	}
+	
+	#source
+	{text-align: center;
+	
+	}
+	
+	.img
+	{text-align: center;
+	}
+	
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{   background-image: url('/tło2.jpg');
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{   background-image: url('/tło.jpg');
+		float: left;
+		width: 170px;
+		min-height: 2700px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+
+	#footer
+	{   background-image: url('/tło2.jpg');
+		clear: both;
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Niemcy - prezentacja kraju</h1>
+		</div>
+	
+		<div id="nav">
+		    <ul>
+		        <strong>
+			<li><a href="index.html">Strona główna</a><br /></li>
+			<li><a href="symbole.html">Symbole narodowe</a><br /></li>
+			<li><a href="etymologia-nazwy.html">Etymologia nazwy</a><br /></li>
+			<li><a href="landy.html">Kraje związkowe</a></br></li>
+			<li><a href="teren.html">Ukształtowanie powierzchni</a><br /></li>
+			<li><a href="klimat.html">Klimat</a><br /></li>
+			<li><a href="atrakcje.html">Atrakcje</a><br /></li>
+			<li><a href="święta.html">Święta</a><br /></li>
+			<li><a href="literatura.html">Literatura</a></a><br /></li>
+			<li><a href="kuchnia.html">Kuchnia</a><br /></li>
+			<li><a href="miasta.html">5 największych miast</a><br/></li>
+			<li><a href="znani.html">Znani Niemcy</a><br/></li>
+			<li><a href="ciekawostki.html">Ciekawostki</a><br/></li></strong>
+			</ul>
+			</ul>
+		</div>
+		
+		<div id="content">
+			<h2 class="img">5 największych miast <br/> (pod względem liczby mieszkańców)</h2>
+<center>
+<p class="img">
+   <h2 id="1">Berlin</h2> 
+    
+ Stolica i zarazem kraj związkowy. Zajmuje powierzchnię ok. 892 km² i zamieszkuje go niespełna 3,7 mln osób. Jest największym miastem w Unii Europejskiej pod względem liczby mieszkańców.
+
+<br/>
+
+
+<p>
+    <img src="berlin.jpg" style="display: block; margin: auto; width:550px;height:300px"/>
+</p>
+<br/>
+<p>
+    <h2 id="2">Hamburg</h2>
+    Miasto w północnych Niemczech na prawach kraju związkowego niedaleko ujścia Łaby do Morza Północnego. Wolne miasto i zarazem niemiecki kraj związkowy o powierzchmi 755 km², ludność około 1,85 mln – drugie po Berlinie. Największy port morski kraju (ok. 140 mln ton przeładunku), wielki ośrodek przemysłowy (statki, elektrotechnika, przetwórstwo ropy, przemysł spożywczy) i finansowy. W 2011 roku miasto to otrzymało tytuł Europejskiej Stolicy Czystości.
+
+
+</p>
+
+<p>
+    <img src="hamburg.jpg" style="display: block; margin: auto; width:550px;height:300px"/>
+</p>
+<br/>
+<p>
+    <h2 id="3">Monachium</h2>
+   miasto na prawach powiatu w południowych Niemczech, stolica kraju związkowego Bawaria, siedziba rejencji Górna Bawaria, regionu Monachium, powiatu Landkreis München (do którego jednak miasto nie należy) oraz Stowarzyszenia Krajowego (Landesverband) Technisches Hilfswerk, trzecie pod względem liczby ludności miasto Niemiec, zamieszkiwane pod koniec 2019 r. przez niemal 1,5 mln osób.
+   
+</p>
+
+<p>
+    <img src="monachium.jpg" style="display: block; margin: auto; width:550px;height:300px"/>
+</p>
+<br/>
+<p>
+    <h2 id="4">Kolonia
+</h2>
+    Miasto na prawach powiatu w zachodnich Niemczech, w kraju związkowym Nadrenia Północna-Westfalia, stolica rejencji Kolonia.Liczba ludności - niecałe 1,1 mln. Jeden z najważniejszych historycznych ośrodków kultu religijnego w Europie. Leży nad rzeką Ren. Wizytówką miasta i historyczną dominantą jest gotycka katedra (Kölner Dom), siedziba arcybiskupstwa kolońskiego. Uniwersytet w Kolonii (Universität zu Köln) jest jedną z najstarszych wszechnic w Niemczech, w której kształci się ok. 44 tys. studentów. Kolonia jest najważniejszym gospodarczym, kulturalnym i historycznym miastem Nadrenii. 
+    
+</p>
+
+<p>
+    <img src="kolonia.jpg" style="display: block; margin: auto; width:550px;height:300px"/>
+</p>
+<br/>
+<p>
+    <h2 id="5">Frankfurt nad Menem
+</h2>
+    Miasto na prawach powiatu w Niemczech, w kraju związkowym Hesja, w rejencji Darmstadt. Ponad 760 tys., jedna z najważniejszych metropolii finansowych świata oraz znane centrum wystawiennicze.
+    
+</p>
+
+<p>
+    <img src="fra.jpeg" style="display: block; margin: auto; width:550px;height:300px"/>
+</p>
+</center>
+		</div>
+		
+		<div id="footer">
+			<p id="source">Źródło: navtur.pl, lonelyplanet.com, lubuskielove.pl, itinari.com, podroze.onet.pl <br/>
+			Photo by Henry & Co. from Pexels (grey), photo by Madison Inouye from Pexels (pink) </p>
+		</div>
+	
+	</div>
+
+</body>
+</html>

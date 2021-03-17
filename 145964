@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title id="title" >Niemcy - prezentacja kraju</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	
+		h2 {font-family: Courier,Helvetica, Arial;
+	
+	}
+	
+	h1 {font-family: Courier;Helvetica,Arial;
+	}
+	
+	p {font-family: Arial, Sans-Serif;
+	}
+	
+	#xd {box-shadow: 0 0 20px 10px black;
+	}
+		
+	a {color: black;
+	text-decoration: none;
+	}
+	
+	a:hover {color:#D785AB;
+	text-decoration: underline;
+	}
+	
+	
+		a:visited {color:#A63C64;
+	}
+	
+	
+	#source
+	{text-align: center;
+	
+	}
+	
+	.img
+	{text-align: center;
+	}
+	
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{   background-image: url('/tło2.jpg');
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{   background-image: url('/tło.jpg');
+		float: left;
+		width: 170px;
+		min-height: 920px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+
+	#footer
+	{   background-image: url('/tło2.jpg');
+		clear: both;
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Niemcy - prezentacja kraju</h1>
+		</div>
+	
+		<div id="nav">
+		   		    <ul>
+		        <strong>
+			<li><a href="index.html">Strona główna</a><br /></li>
+			<li><a href="symbole.html">Symbole narodowe</a><br /></li>
+			<li><a href="etymologia-nazwy.html">Etymologia nazwy</a><br /></li>
+			<li><a href="landy.html">Kraje związkowe</a></br></li>
+			<li><a href="teren.html">Ukształtowanie powierzchni</a><br /></li>
+			<li><a href="klimat.html">Klimat</a><br /></li>
+			<li><a href="atrakcje.html">Atrakcje</a><br /></li>
+			<li><a href="święta.html">Święta</a><br /></li>
+			<li><a href="literatura.html">Literatura</a></a><br /></li>
+			<li><a href="kuchnia.html">Kuchnia</a><br /></li>
+			<li><a href="miasta.html">5 największych miast</a><br/></li>
+			<li><a href="znani.html">Znani Niemcy</a><br/></li>
+			<li><a href="ciekawostki.html">Ciekawostki</a><br/></li></strong>
+			</ul>
+		</div>
+		
+		<div id="content">
+			<h2 class="img">Etymologia nazwy</h2>
+			
+<p class="img">
+    Według popularnej etymologii polska nazwa „Niemcy” wywodzi się z tego samego rdzenia słowiańskiego, co określenia „niemy”, „obcy”, i podkreśla barierę językową między germańskim językiem niemieckim a językami słowiańskimi („niemy” jako osoba niemówiąca zrozumiałym językiem – podobnie jak w przekształconym pod wpływem ruskim wyrazie niemowlę; do XVI wieku <em>niemowię, niemowiątko</em>) – psł. *němъ – „pozbawiony zdolności mówienia”, „mówiący niezrozumiale, obcym, niezrozumiałym językiem” → *němьcь „ten, kto nie ma zdolności mówienia”, „ten, kto mówi niezrozumiale, niezrozumiałym językiem” (egocentryczne, podobne do greckiego <em>bárbaros</em> – barbarzyńca) → Niemiec, tak samo we wszystkich językach słowiańskich i w zapożyczonym od nich węgierskim <em>német</em>, zanotowane w takiej formie jeszcze w erze plemiennej w <em>Żywocie św. Metodego</em> z IX w., w słowach Rościsława do bizantyńskiego cesarza Michała III: ...суть въ ны въшьли учителе мнози крьстияни из Влахъ, и из Грькъ, и из <strong>Немьць</strong>, учаще ны различь, а мы Словени проста чадь и не имамъ, иже бы ны наставилъ на истину и разумъ сказалъ, то, добреи владыко, посъли такъ мужь, иже ны исправить вьсяку правьду... –<em>...przyszli do nas liczni nauczyciele chrześcijanie z Włoch, Grecji i Niemiec, którzy nas uczą rozmaicie. A my, Słowianie prosty lud i nie mamy nikogo, kto by nas ku prawdzie skierował i zrozumiale pouczył. Więc dobry władco poślij tak męża, aby umocnił wszelką prawdę.</em> Według innej teorii, nazwa ta wywodzi się od plemienia Nemeti wzmiankowanego przez Tacyta i Cezara.
+</p>
+
+
+<br/>
+
+
+<p>
+    <img src="nazwa.jpg" id="xd" style="display: block; margin: auto; width:500px;height:320px"/>
+</p>
+
+		</div>
+		
+		<div id="footer">
+			<p id="source">Źródło: wikipedia.pl, niemcy-online.pl, youtube - Arika Okrent<br/>
+			Photo by Henry & Co. from Pexels (grey), photo by Madison Inouye from Pexels (pink)</p>
+		</div>
+	
+	</div>
+
+</body>
+</html>

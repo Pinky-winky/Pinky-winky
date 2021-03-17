@@ -1,0 +1,136 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title id="title" >Niemcy - prezentacja kraju</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	
+	h2 {font-family: Courier,Helvetica, Arial;
+	
+	}
+	
+	h1 {font-family: Courier;Helvetica,Arial;
+	}
+	
+	p {font-family: Arial, Sans-Serif;
+	}
+		
+	a {color: black;
+	text-decoration: none;
+	}
+	
+		
+	a:hover {color:#D785AB;
+	text-decoration: underline;
+	}
+	
+		a:visited {color:#A63C64;
+	}
+	
+	
+	
+	#source
+	{text-align: center;
+	
+	}
+	
+	.img
+	{text-align: center;
+	}
+	
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{   background-image: url('/tło2.jpg');
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{   background-image: url('/tło.jpg');
+		float: left;
+		width: 170px;
+		min-height: 920px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+
+	#footer
+	{   background-image: url('/tło2.jpg');
+		clear: both;
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Niemcy - prezentacja kraju</h1>
+		</div>
+	
+		<div id="nav">
+		    <ul>
+		        <strong>
+			<li><a href="index.html">Strona główna</a><br /></li>
+			<li><a href="symbole.html">Symbole narodowe</a><br /></li>
+			<li><a href="etymologia-nazwy.html">Etymologia nazwy</a><br /></li>
+			<li><a href="landy.html">Kraje związkowe</a></br></li>
+			<li><a href="teren.html">Ukształtowanie powierzchni</a><br /></li>
+			<li><a href="klimat.html">Klimat</a><br /></li>
+			<li><a href="atrakcje.html">Atrakcje</a><br /></li>
+			<li><a href="święta.html">Święta</a><br /></li>
+			<li><a href="literatura.html">Literatura</a></a><br /></li>
+			<li><a href="kuchnia.html">Kuchnia</a><br /></li>
+			<li><a href="miasta.html">5 największych miast</a><br/></li>
+			<li><a href="znani.html">Znani Niemcy</a><br/></li>
+			<li><a href="ciekawostki.html">Ciekawostki</a><br/></li></strong>
+			</ul>
+		</div>
+		
+		<div id="content">
+			<h2 class="img">Klimat</h2>
+			
+<p class="img">
+    W Niemczech panuje klimat umiarkowany z chłodnymi pochmurnymi i mokrymi zimami i latami, na południu występuje fen. Większość terenu Niemiec leży w strefie umiarkowanej ciepłej, gdzie dominują wilgotne wiatry zachodnie. Na północy panuje klimat oceaniczny z całorocznymi opadami. Zimy są stosunkowo łagodne, a lata dość ciepłe. Na wschodzie widać przejawy klimatu kontynentalnego. Zimy bywają bardzo zimne, a lata bardzo ciepłe. W centralnej części kraju, a także na południu klimat wykazuje cechy przejściowe, zarówno oceaniczne, jak i kontynentalne. Zimy są tu łagodne, a lata chłodne, chociaż temperatury mogą przekroczyć +30 °C. Najcieplejszym regionem Niemiec jest południowo-zachodni zakątek kraju: Deutsche Weinstraße i Nizina Górnoreńska. Tutejsze lata mogą być bardzo ciepłe przez długi okres. Czasami minimalna temperatura nie spada poniżej +20 °C, co jest rzadkim zjawiskiem w pozostałej części kraju. Przeważają wiatry zachodnie i południowo-zachodnie. Na Wyżynie Bawarskiej w miesiącach wiosennych i jesiennych wieją ciepłe i suche feny. Występują zjawiska ekstremalne takie jak letnie i wiosenne burze.<br/>
+
+Ostatnie lata były bardzo ciepłe i charakteryzowały się długimi okresami suszy i ekstremalnymi warunkami pogodowymi, takimi jak burze i ulewne deszcze. Lata w 2003, 2018 i 2019 roku były najcieplejsze od początku pomiarów. Średnioroczna temperatura powietrza wzrosła o 1,5 °C od 1881 do 2018 r. W ostatnich dziesięcioleciach w szczególności znacznie wzrosła liczba upalnych dni (> 30 °C). Miesiące, w których poziom wód gruntowych jest poniżej średniej, stają się znacznie częstsze. W miesiącach letnich rzeki zawierają coraz mniej wody.
+</p>
+
+
+<br/>
+
+
+<p>
+    <img src="rugia.jpg" style="display: block; margin: auto; width:500px;height:320px"/>
+</p>
+<center><p>Wyspa Rugia na Morzu Bałtyckim </p></center>
+
+		</div>
+		
+		<div id="footer">
+			<p id="source">Źródło:kolemsietoczy.pl, wikipedia.pl <br/>
+			Photo by Henry & Co. from Pexels (grey), photo by Madison Inouye from Pexels (pink)</p>
+		</div>
+	
+	</div>
+
+</body>
+</html>

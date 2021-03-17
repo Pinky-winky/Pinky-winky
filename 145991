@@ -1,0 +1,142 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title id="title" >Niemcy - prezentacja kraju</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	
+	h2 {font-family: Courier,Helvetica, Arial;
+	
+	}
+	
+	h1 {font-family: Courier;Helvetica,Arial;
+	}
+	
+	p {font-family: Arial, Sans-Serif;
+	}
+	
+		
+	a {color: black;
+	text-decoration: none;
+	}
+	
+	a:hover {color:#D785AB;
+	text-decoration: underline;
+	}
+	
+		a:visited {color:#A63C64;
+	}
+	
+	
+	
+	#source
+	{text-align: center;
+	
+	}
+	
+	.img
+	{text-align: center;
+	}
+	
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{   background-image: url('/tło2.jpg');
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{   background-image: url('/tło.jpg');
+		float: left;
+		width: 170px;
+		min-height: 1430px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+
+	#footer
+	{   background-image: url('/tło2.jpg');
+		clear: both;
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Niemcy - prezentacja kraju</h1>
+		</div>
+	
+		<div id="nav">
+		    <ul>
+		        <strong>
+			<li><a href="index.html">Strona główna</a><br /></li>
+			<li><a href="symbole.html">Symbole narodowe</a><br /></li>
+			<li><a href="etymologia-nazwy.html">Etymologia nazwy</a><br /></li>
+			<li><a href="landy.html">Kraje związkowe</a></br></li>
+			<li><a href="teren.html">Ukształtowanie powierzchni</a><br /></li>
+			<li><a href="klimat.html">Klimat</a><br /></li>
+			<li><a href="atrakcje.html">Atrakcje</a><br /></li>
+			<li><a href="święta.html">Święta</a><br /></li>
+			<li><a href="literatura.html">Literatura</a></a><br /></li>
+			<li><a href="kuchnia.html">Kuchnia</a><br /></li>
+			<li><a href="miasta.html">5 największych miast</a><br/></li>
+			<li><a href="znani.html">Znani Niemcy</a><br/></li>
+			<li><a href="ciekawostki.html">Ciekawostki</a><br/></li></strong>
+			</ul>
+		</div>
+		
+		<div id="content">
+			<h2 class="img">Ukształtowanie terenu</h2>
+			
+<p class="img">
+    Wybrzeże Morza Bałtyckiego ma charakter wybrzeża wydmowego, na wyspie Rugia występuje także klifowe. Urozmaicone jest ono licznymi zatokami (np. Zatoka Pomorska, Zatoka Meklemburska) oraz wyspami, z których największe to Rugia oraz – na granicy z Polską – Uznam. Wybrzeże Morza Północnego jest nizinne, piaszczyste, częściowo zabagnione, również występują tu zatoki, a wzdłuż brzegu ciągną się Wyspy Fryzyjskie.<br/>
+<br/>
+Na północy Niemiec przeważa Niż Środkowoeuropejski. Największą krainą geograficzną jest tutaj Nizina Północnoniemiecka. Na jej północnym wschodzie, na pojezierzach: Szlezwicko-Holsztyńskim oraz Meklemburskim, które zostały objęte zlodowaceniem bałtyckim, występuje rzeźba młodoglacjalna. Charakterystyczne dla tych terenów są jeziora polodowcowe, wzniesienia moren czołowych, równiny sandrowe, a także pradoliny: Toruńsko-Eberswaldzka i Warszawsko-Berlińska. Część zachodnia i południowa niziny jest w znacznym stopniu zabagniona, o charakterze staroglacjalnym, z wydmami, wysoczyznami morenowymi, a także pradoliną Wrocławsko-Magdeburską.<br/>
+<br/>
+Centralną część Niemiec obejmuje Średniogórze Niemieckie, posiadające rzeźbę wyżynno-górzystą. Najdalej na północ wysunięty jest masyw górski Harz z najwyższym szczytem Brocken o wysokości 1142 m n.p.m. Na zachodzie ciągną się Reńskie Góry Łupkowe, w skład których wchodzą liczne pasma górskie: Taunus, Westerwald czy Eifel, przecięte rzeką Ren. Dalej na wschód znajduje się pasmo Rothaargebirge, a także Rhön, Las Turyński i Las Frankoński. Na granicy z Czechami wznoszą się góry Rudawy.<br/>
+<br/>
+Na południu Niemiec rozciąga się rozległa Wyżyna Bawarska, ograniczona od północy Wyżyną Frankońską, od północnego zachodu Jurą Szwabską, a od północnego wschodu Lasem Bawarskim i Lasem Czeskim. Dalej na zachód wznoszą się góry Schwarzwald z najwyższym szczytem Feldberg o wysokości 1493 m n.p.m. Na południu natomiast znajdują się Alpy Bawarsko-Tyrolskie oraz Alpy Salzburskie. W tych pierwszych wznosi się najwyższy szczyt Niemiec – Zugspitze (2962 m n.p.m.)<br/>
+
+</p>
+
+
+<br/>
+
+<center>
+<p>
+    <img src="mapa.png" style="display: block; margin: auto; width:562,5px;height:700px"/>
+</p>
+</center>
+<center><p>Mapa hipsometryczna Niemiec </p></center>
+
+		</div>
+		
+		<div id="footer">
+			<p id="source">Źródło: wikipedia.pl <br/>
+			Photo by Henry & Co. from Pexels (grey), photo by Madison Inouye from Pexels (pink)</p>
+		</div>
+	
+	</div>
+
+</body>
+</html>

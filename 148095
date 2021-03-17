@@ -1,0 +1,272 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title id="title" >Niemcy - prezentacja kraju</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	
+	h2 {font-family: Courier,Helvetica, Arial;
+	
+	}
+	
+	h1 {font-family: Courier;Helvetica,Arial;
+	}
+	
+	p {font-family: Arial, Sans-Serif;
+	}
+	
+	
+	a {color: black;
+	text-decoration: none;
+	}
+	
+	a:hover {color:#D785AB;
+	text-decoration: underline;
+	}
+	
+		a:visited {color:#A63C64;
+	}
+	
+	
+	#source
+	{text-align: center;
+	
+	}
+	
+	.img
+	{text-align: center;
+	}
+	
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{   background-image: url('/tło2.jpg');
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{   background-image: url('/tło.jpg');
+		float: left;
+		width: 170px;
+		min-height: 1550px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+
+	#footer
+	{   background-image: url('/tło2.jpg');
+		clear: both;
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Niemcy - prezentacja kraju</h1>
+		</div>
+	
+		<div id="nav">
+		    <ul>
+		        <strong>
+			<li><a href="index.html">Strona główna</a><br /></li>
+			<li><a href="symbole.html">Symbole narodowe</a><br /></li>
+			<li><a href="etymologia-nazwy.html">Etymologia nazwy</a><br /></li>
+			<li><a href="landy.html">Kraje związkowe</a></br></li>
+			<li><a href="teren.html">Ukształtowanie powierzchni</a><br /></li>
+			<li><a href="klimat.html">Klimat</a><br /></li>
+			<li><a href="atrakcje.html">Atrakcje</a><br /></li>
+			<li><a href="święta.html">Święta</a><br /></li>
+			<li><a href="literatura.html">Literatura</a></a><br /></li>
+			<li><a href="kuchnia.html">Kuchnia</a><br /></li>
+			<li><a href="miasta.html">5 największych miast</a><br/></li>
+			<li><a href="znani.html">Znani Niemcy</a><br/></li>
+			<li><a href="ciekawostki.html">Ciekawostki</a><br/></li></strong>
+			</ul>
+		</div>
+		
+		<div id="content">
+			<h2 class="img">Landy</h2>
+			
+<p class="img">
+    
+    Republika Federalna Niemiec składa się z szesnastu krajów związkowych, nazywanych Landami, posiadających własne konstytucje i szeroką autonomię. Ze względu na różnice w ich wielkości oraz liczbie ludności, w każdym z nich różni się system podziału administracyjnego. W 2009 r. Niemcy podzielone były na 403 powiaty, w tym 301 ziemskich i 102 miejskie. Wszystkie kraje związkowe są równouprawnione.Berlin i Hamburg są miastami na prawie landu; Brema ma też status miasta-kraju (Stadtstaat), chociaż należą do niej dwa miasta: Brema i Bremerhaven
+    
+</p>
+<center>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:0px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-f48y{border-color:inherit;font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif !important;;text-align:left;
+  vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+      <th>Kraj związkowy</th>
+      <th>Stolica</th>
+      <th>Powierzchnia (w km2)</th>
+      
+    <th class="tg-f48y"></th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>Badenia-Wirtembergia </td>
+        <td>Stuttgart</td>
+        <td>35 751, 48</td>
+
+        
+    </tr>
+        <tr>
+        <td>Bawaria</td>
+        <td>Monachium</td>
+        <td>70 550, 11</td>
+
+        
+    </tr>
+        <tr>
+        <td>Berlin </td>
+        <td>Berlin</td>
+        <td>892</td>
+
+        
+    </tr>
+        <tr>
+        <td>Brandenburgia </td>
+        <td>Poczdam</td>
+        <td>29 483, 13</td>
+
+        
+    </tr>
+        <tr>
+        <td>Brema </td>
+        <td>Brema</td>
+        <td>419, 24</td>
+
+        
+    </tr>
+            <tr>
+        <td>Hamburg </td>
+        <td>Hamburg</td>
+        <td>755, 16</td>
+
+        
+    </tr>
+            <tr>
+        <td>Hesja</td>
+        <td>Wiesbaden</td>
+        <td>21 114, 91</td>
+
+        
+    </tr>
+            <tr>
+        <td>Maklemburgia-Pomorze Przednie </td>
+        <td>Schwerin</td>
+        <td>23 190, 76</td>
+
+        
+    </tr>
+            <tr>
+        <td>Dolna Saksonia </td>
+        <td>Hanower</td>
+        <td>47 612, 88</td>
+
+        
+    </tr>
+            <tr>
+        <td>Nadrenia Północna-Westfalia </td>
+        <td>Düsseldorf</td>
+        <td>34 092, 25</td>
+
+        
+    </tr>
+                <tr>
+        <td>Nadrenia-Palatynat </td>
+        <td>Moguncja</td>
+        <td>19 854, 06</td>
+
+        
+    </tr>
+                <tr>
+        <td>Saara </td>
+        <td>Saarbrücken</td>
+        <td>2 568, 75</td>
+
+        
+    </tr>
+                <tr>
+        <td>Saksonia </td>
+        <td>Drezno</td>
+        <td>18 419, 71</td>
+
+        
+    </tr>
+    
+      <tr>
+        <td>Saksonia-Anhalt </td>
+        <td>Magdeburg</td>
+        <td>20 449, 54</td>
+
+        
+    </tr>
+    
+      <tr>
+        <td>Szlezwik-Holsztyn </td>
+        <td>Kilona</td>
+        <td>15 799, 25</td>
+
+        
+    </tr>
+    
+          <tr>
+        <td>Turyngia </td>
+        <td>Erfurt</td>
+        <td>16 172, 50</td>
+
+        
+    </tr>
+    
+    
+</tbody>
+</table>
+</center>
+<br/>
+<br/>
+<p>
+    <img src="landy.png" style="display: block; margin: auto; width:500px;height:600px"/>
+</p>
+		</div>
+		
+		<div id="footer">
+			<p id="source">Źródło: wikipedia.pl, pflegemitherzen24.pl<br/>
+			Photo by Henry & Co. from Pexels (grey), photo by Madison Inouye from Pexels (pink)</p>
+		</div>
+	
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,180 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title id="title" >Niemcy - prezentacja kraju</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	
+		h2 {font-family: Courier,Helvetica, Arial;
+	
+	}
+	
+	h1 {font-family: Courier;Helvetica,Arial;
+	}
+	
+	p {font-family: Arial, Sans-Serif;
+	}
+	
+	#xd {outline-style: dashed;
+	outline-width: medium;
+	}
+	
+	
+	a {color: black;
+	text-decoration: none;
+	}
+	
+		
+	a:hover {color:#D785AB;
+	text-decoration: underline;
+	}
+	
+		a:visited {color:#A63C64;
+	}
+	
+	
+	
+	#source
+	{text-align: center;
+	
+	}
+	
+	.img
+	{text-align: center;
+	}
+	
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{   background-image: url('/tło2.jpg');
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{   background-image: url('/tło.jpg');
+		float: left;
+		width: 170px;
+		min-height: 1200px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+
+	#footer
+	{   background-image: url('/tło2.jpg');
+		clear: both;
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Niemcy - prezentacja kraju</h1>
+		</div>
+	
+		<div id="nav">
+		 		    <ul>
+		        <strong>
+			<li><a href="index.html">Strona główna</a><br /></li>
+			<li><a href="symbole.html">Symbole narodowe</a><br /></li>
+			<li><a href="etymologia-nazwy.html">Etymologia nazwy</a><br /></li>
+			<li><a href="landy.html">Kraje związkowe</a></br></li>
+			<li><a href="teren.html">Ukształtowanie powierzchni</a><br /></li>
+			<li><a href="klimat.html">Klimat</a><br /></li>
+			<li><a href="atrakcje.html">Atrakcje</a><br /></li>
+			<li><a href="święta.html">Święta</a><br /></li>
+			<li><a href="literatura.html">Literatura</a></a><br /></li>
+			<li><a href="kuchnia.html">Kuchnia</a><br /></li>
+			<li><a href="miasta.html">5 największych miast</a><br/></li>
+			<li><a href="znani.html">Znani Niemcy</a><br/></li>
+			<li><a href="ciekawostki.html">Ciekawostki</a><br/></li></strong>
+			</ul>
+		</div>
+		
+		<div id="content">
+			<h2 class="img">Ciekawostki</h2>
+			
+<p class="img">
+    <center>
+   <ol>
+       <li>
+           Ren, najdłuższa rzeka w Niemczech, ma 865 km.
+       </li>
+       <br/>
+       <li>
+           Pierwsza drukowana książka została wydana właśnie w Niemczech.
+       </li>
+              <br/>
+       <li>
+           Niemcy uwielbiają białą kiełbasę z dodatkiem słodkiej musztardy (Weisswurst).
+       </li>
+              <br/>
+       <li>
+            Karnawał w Niemczech jest obchodzony od 11. dnia 11. miesiąca roku od godziny 11.11.
+       </li>
+              <br/>
+       <li>
+           W Niemczech produkuje się ponad 1500 rodzajów kiełbasy i 300 rodzajów chleba.
+       </li>
+              <br/>
+       <li>
+           Polacy stanowią po Turkach największą grupę imigrantów w Niemczech.
+          </li>
+          <br/>
+       <li>
+           Najstarszym browarem w Niemczech jest Weihenstephan, został założony w roku 1040 przez mnichów benedyktyńskich.
+       </li>
+              <br/>
+       <li>
+           Najpopularniejszym sportem Niemców jest piłka nożna.
+W kraju tym istnieje 26 tysięcy klubów piłkarskich a ponad milion Niemców zarejestrowanych jest w fanklubach.
+       </li>
+              <br/>
+       <li>
+           Najwyższa katedra świata znajduje się w Ulm.
+Budowę Ulmer Münster ukończono w 1890 roku. Wieża kościoła ma wysokość 161,53 metrów.
+       </li>
+              <br/>
+       <li>
+           Popularne żelki owocowe HARIBO stworzył w 1920 roku, niemiecki cukiernik Hans Riegel. Nazwa firmy powstała od dwóch pierwszych liter: imienia, nazwiska i rodzinnego miasta: Hans Riegel Bonn.
+       </li>
+   </ol>
+   </center>
+<br/>
+
+<center>
+<p>
+    <img src="germany.jpg" id="xd"style="display: block; margin: auto; width:430px;height:500px"/>
+</p>
+</center>
+
+		</div>
+		
+		<div id="footer">
+			<p id="source">Źródło: eurostudent.pl,  ciekawostki.online, glowka-pracuje.eu, freepik.com, fajnepodroze.pl <br/>
+			Photo by Henry & Co. from Pexels (grey), photo by Madison Inouye from Pexels (pink) </p>
+		</div>
+	
+	</div>
+
+</body>
+</html>

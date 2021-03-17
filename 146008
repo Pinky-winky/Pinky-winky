@@ -1,0 +1,161 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title id="title" >Niemcy - prezentacja kraju</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	
+	<style>
+	
+	h2 {font-family: Courier,Helvetica, Arial;
+	
+	}
+	
+	h1 {font-family: Courier;Helvetica,Arial;
+	}
+	
+	p {font-family: Arial, Sans-Serif;
+	}
+	
+		
+	a {color: black;
+	text-decoration: none;
+	}
+	
+	
+	a:hover {color:#D785AB;
+	text-decoration: underline;
+	}
+	
+		a:visited {color:#A63C64;
+	}
+	
+	
+	#source
+	{text-align: center;
+	
+	}
+	
+	.img
+	{text-align: center;
+	}
+	
+	#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	#logo
+	{   background-image: url('/tło2.jpg');
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 15px;
+	}
+	#nav
+	{   background-image: url('/tło.jpg');
+		float: left;
+		width: 170px;
+		min-height: 1550px;
+		padding: 10px;
+	}
+	#content
+	{
+		float: left;
+		padding: 20px;
+		width: 640px;
+	}
+
+	#footer
+	{   background-image: url('/tło2.jpg');
+		clear: both;
+		background-color: #1A1B1B;
+		color: black;
+		text-align: center;
+		padding: 20px;
+	}	
+	</style>
+</head>
+
+<body>
+
+	<div id="container">
+	
+		<div id="logo">
+			<h1>Niemcy - prezentacja kraju</h1>
+		</div>
+	
+		<div id="nav">
+		    <ul>
+		        <strong>
+			<li><a href="index.html">Strona główna</a><br /></li>
+			<li><a href="symbole.html">Symbole narodowe</a><br /></li>
+			<li><a href="etymologia-nazwy.html">Etymologia nazwy</a><br /></li>
+			<li><a href="landy.html">Kraje związkowe</a></br></li>
+			<li><a href="teren.html">Ukształtowanie powierzchni</a><br /></li>
+			<li><a href="klimat.html">Klimat</a><br /></li>
+			<li><a href="atrakcje.html">Atrakcje</a><br /></li>
+			<li><a href="święta.html">Święta</a><br /></li>
+			<li><a href="literatura.html">Literatura</a></a><br /></li>
+			<li><a href="kuchnia.html">Kuchnia</a><br /></li>
+			<li><a href="miasta.html">5 największych miast</a><br/></li>
+			<li><a href="znani.html">Znani Niemcy</a><br/></li>
+			<li><a href="ciekawostki.html">Ciekawostki</a><br/></li></strong>
+			</ul>
+		</div>
+		
+		<div id="content">
+			<h1 class="img">Święta</h2>
+			
+<p class="img">
+    <center><h2 id="wolne">Dni wolne od pracy</h2>
+Liczba dni wolnych od pracy jest różna w poszczególnych krajach związkowych państwa. Dziewięć dni jest wolnych od pracy na terenie całych Niemiec. Są to: Nowy Rok (1 stycznia), Wielki Piątek, Poniedziałek Wielkanocny, Dzień Pracy (1 maja), Wniebowstąpienie Pańskie, drugi dzień Zielonych Świątek, Święto Zjednoczenia Niemiec (3 października), Boże Narodzenie (25 grudnia) oraz 26 grudnia, czyli dzień św. Szczepana. Ponadto w niektórych krajach związkowych wolne od pracy są: Święto Objawienia Pańskiego (6 stycznia), Boże Ciało, Wniebowzięcie Najświętszej Maryi Panny, Dzień Reformacji (31 października), Wszystkich Świętych (1 listopada) oraz Dzień Pokuty (20 listopada).</center><br/>
+
+
+</p>
+
+<center>
+<p>
+    <h2 id="Kto">Kto obchodzi Boże Narodzenie?</h2>
+    Chociaż jest to chrześcijańskie święto narodzin Jezusa Chrystusa, Niemcy, którzy nie wyznają żadnej wiary, również obchodzą Boże Narodzenie - łącznie 78 procent. Dla większości ludzi świętowanie Bożego Narodzenia jest ważną tradycją rodzinną. Około co czwarty Niemiec idzie w Boże Narodzenie do kościoła. Dla wielu osób uczestnictwo o północy w wigilijnej pasterce jest rytuałem, którego nie chcą przegapić.
+</p>
+
+<p>
+    Po upływie okresu czterech tygodni podjadania czekoladek z kalendarza, picia grzańca na jarmarkach bożonarodzeniowych, pieczenia pierników, dekorowania mieszkań i przetrwaniu szału kupowania prezentów oraz imprezowych firmowych, wtedy nadchodzi Wigilia, czyli najważniejszy dzień świąt Bożego Narodzenia. Warto zwrócić uwagę, że mimo, iż jest to w Niemczech tak ważne święto, to oficjalnie Wigilia nie jest dniem wolnym od pracy, a sklepy są w większości otwarte do godziny 14.00. Tak więc nawet w Wigilię możecie jeszcze zrobić zakupy na ostanią chwilę czy udać się po ostatnie prezenty. Co jeszcze dzieje się tego dnia w Niemczech? Poza uwijaniem się w kuchni, często wtedy dopiero ubierana jest choinka, a w wielu rodzinach rozstawiana jest też szopka bożonarodzeniowa.
+    
+</p>
+
+<p>
+    
+    <h2 id="potrawy">Potrawy wigilijne</h2>
+    Jeśli chodzi o potrawy, jakie pojawiają się podczas świąt na niemieckich stołach, to są one bardzo zróżnicowane i w zależności od rodziny – tradycje bywają naprawdę różne. W wielu domach w Niemczech tradycyjną potrawą wigilijną jest pieczeń z gęsi z knedlami lub wigilijny karp. Z kolei niektóre rodziny preferują bogato zastawiony stół w pierwszy i drugi dzień świąt, natomiast w Wigilię jedzą coś „na szybko”, jak np. kiełbaski z sałatką ziemniaczaną. Wszystko po to, aby dzieci nie musiały zbyt długo czekać na prezenty, które stanowią dla nich kulminację wieczoru. Zanim wszyscy domownicy będą mogli rozpakować prezenty, często czytana jest jeszcze jakaś opowieść świąteczna, bądź cała rodzina śpiewa kolędy. W dalszej kolejności czas na pasterkę – przynajmniej dla praktykujących katolików. O północy odbywa się bowiem najważniejsza uroczysta msza świąteczna, podczas której świętowane są narodziny Jezusa.
+</p>
+
+
+<p>
+    <h2 id="2526">25 i 26 grudnia</h2>
+    W wielu krajach to właśnie Boże Narodzenie jest najważniejszym spośród tych trzech dni. Jednak w Niemczech wygląda to w ten sposób, że po prostu świętuje się dalej – już bez prezentów, ale często z mszą świętą i koniecznie z pysznym jedzeniem. 25. i 26. grudnia to oficjalnie dni wolne od pracy, więc wykorzystywane są, aby spotkać się z rodziną i przyjaciółmi oraz miło spędzić czas.
+    
+</p>
+
+
+
+</center
+
+<p>
+    <img src="święta.jpg" style="display: block; margin: auto; width:620px;height:350px"/>
+</p>
+>
+
+		</div>
+		
+		<div id="footer">
+			<p id="source">Źródło: wikipedia.pl, deutschland.de, t-online.de, dojczland.info <br/>
+			Photo by Henry & Co. from Pexels (grey), photo by Madison Inouye from Pexels (pink)</p>
+		</div>
+	
+	</div>
+
+</body>
+</html>
